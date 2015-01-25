@@ -1,6 +1,6 @@
 ## R Programming Assignment 2
 ## 
-## Author: Franck Formis 
+## Author: Kranfnus 
 ## 
 ## cachematrix.R - Version 1.0 - 25.01.2015
 ## 
